@@ -1,0 +1,34 @@
+Количество найденых ссылок: 29
+Время работы программы: 2.8 с
+
+Дерево карты сайта: https://vk.com 
+
+ https://vk.com
+ | https://vk.com/join
+ | https://vk.com/restore
+ | https://vk.com/products
+ | https://m.vk.com
+ | | https://m.vk.com/join
+ | | https://m.vk.com/login
+ | | https://m.vk.com/settings
+ | | https://m.vk.com/fv
+ | https://vk.com/about
+ | https://vk.com/support
+ | https://vk.com/terms
+ | https://vk.com/biz
+ | https://vk.com/dev
+ | | https://vk.com/dev/products
+ | | https://vk.com/dev/manuals
+ | | https://vk.com/dev/help
+ | | https://vk.com/dev/callback_api
+ | | https://vk.com/dev/CommunityMessages
+ | | https://vk.com/dev/goods
+ | | https://vk.com/dev/Login
+ | | https://vk.com/dev/Share
+ | | https://vk.com/dev/ios_how_to_start
+ | | https://vk.com/dev/android_how_to_start
+ | | https://vk.com/dev/vk_how_to_start
+ | | https://vk.com/dev/web_how_to_start
+ | | https://vk.com/dev/marusia_skill_docs
+ | | https://vk.com/dev/blog
+ | https://vk.com/jobs
